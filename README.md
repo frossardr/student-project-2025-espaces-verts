@@ -16,3 +16,4 @@ Then, to start the local preview server, run:
 ```
 npm run dev
 ```
+Check our [website](https://projects.lausannetimemachine.ch/student-project-2025-espaces-verts/). It is hosted by EPFL's [Time Machine Unit](https://www.epfl.ch/schools/cdh/time-machine-unit/).
